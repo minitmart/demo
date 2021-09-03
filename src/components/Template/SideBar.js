@@ -9,7 +9,7 @@ const SideBar = () => (
   <section id="sidebar">
     <section id="intro">
       <Link to="/" className="logo">
-        <img src={`${PUBLIC_URL}/images/logo2.PNG`} alt="" />
+        <img src={`${PUBLIC_URL}/images/logo3.PNG`} alt="" />
       </Link>
       <header>
         <h2>Nittany Energy</h2>
