@@ -56,11 +56,7 @@
       width: 100%;
     }
 
-    &:hover {
-      img {
-        @include vendor( 'transform', 'scale(1.05)');
-      }
-    }
+
   }
 
   header {
